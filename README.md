@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there! I'm Reza Roosta</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">Developer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Skills-PHP%20|%20Flutter%20|%20WordPress-blue" alt="Skills Badge"/>
@@ -16,6 +16,8 @@ I’m a passionate developer focused on building scalable applications. With exp
 - **Mobile Development:** Flutter (Android, iOS)
 - **API Development:** Creating RESTful APIs
 - **Chatbot Development:** Telegram bots using PHP
+- **Frontend Development:** Experience with HTML, CSS, JavaScript
+- **Backend Development:** Building applications and services with PHP
 
 ### 🌟 Notable Projects
 - **VPN Application:** [HEng](#) - A robust VPN solution for secure browsing.
