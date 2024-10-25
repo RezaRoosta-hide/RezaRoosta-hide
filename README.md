@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! I'm Reza Rusta</h1>
+<h1 align="center">👋 Hi there! I'm Reza Roosta</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
@@ -10,16 +10,28 @@
 ### 🛠️ About Me
 I’m a passionate developer focused on building scalable applications. With expertise in **PHP** and **Flutter**, I enjoy creating innovative solutions for various platforms.
 
-### 💻 Skills
-- **Languages:** PHP, Dart (Flutter)
-- **Web Development:** WordPress
-- **Mobile Development:** Flutter (Android, iOS)
-- **API Development:** Creating RESTful APIs
-- **Chatbot Development:** Telegram bots using PHP
+---
+
+### 💻 Skills Overview
+
+| Skill       | Proficiency |
+|-------------|-------------|
+| PHP         | 90%         |
+| Flutter     | 85%         |
+| WordPress   | 80%         |
+
+### 📊 Skills Breakdown
+```plaintext
+PHP       | ██████████████████████████ 90%
+Flutter   | ████████████████████████ 85%
+WordPress | █████████████████████ 80%
+```
 
 ### 🌟 Notable Projects
 - **VPN Application:** [HEng](#) - A robust VPN solution for secure browsing.
 - **Telegram Bot:** [hisa cloud](#) - A versatile Telegram bot that enhances user experience.
+
+---
 
 ### 📱 What I Do
 I specialize in developing applications for:
@@ -30,8 +42,17 @@ I specialize in developing applications for:
 
 I also design and implement APIs and Telegram bots to enhance functionality and user experience.
 
+---
+
 ### 📚 Learning & Growth
 I love learning new technologies and improving my skills. I thrive on challenges and always look for innovative ways to solve problems.
+
+### 🌈 Technologies I Love
+```plaintext
+Flutter  ██████████████████ 85%
+PHP      ██████████████████████████ 90%
+WordPress █████████████████ 80%
+```
 
 ---
 
