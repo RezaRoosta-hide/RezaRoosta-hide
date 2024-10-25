@@ -10,6 +10,9 @@
 ### 🛠️ About Me
 I’m a passionate developer focused on building scalable applications. With expertise in **PHP** and **Flutter**, I enjoy creating innovative solutions for various platforms.
 
+### 💪 Motivational Thought
+"There's no such thing as failure; you either win or learn how to win."
+
 ### 💻 Skills
 - **Languages:** PHP, Dart (Flutter)
 - **Web Development:** WordPress
