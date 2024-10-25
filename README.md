@@ -16,7 +16,6 @@ I’m a passionate developer focused on building scalable applications. With exp
 - **Mobile Development:** Flutter (Android, iOS)
 - **API Development:** Creating RESTful APIs
 - **Chatbot Development:** Telegram bots using PHP
-- **Frontend Development:** Flutter
 
 ### 🌟 Notable Projects
 - **VPN Application:** [HEng](#) - A robust VPN solution for secure browsing.
